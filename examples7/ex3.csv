@@ -1,0 +1,6 @@
+a,b,c,d,message
+1,2,,4,hello
+5,6,,8,world
+,,,,
+9,,,12,foo1
+13,14,,16,foo2

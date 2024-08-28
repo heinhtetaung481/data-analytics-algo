@@ -1,0 +1,5 @@
+Hi !This is to write to a text file
+apple
+orange
+lemon
+This is second line to write to a text file
